@@ -3,7 +3,6 @@
   "version": "0.9.0",
   "description": "React Restructure",
   "main": "index.js",
-  "homepage": "https://dearparanoid.github.io/jinze",
   "scripts": {
     "dev": "webpack-dev-server --devtool eval --progress --colors --content-base --inline",
     "build": "webpack --progress",
@@ -11,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dearparanoid/jinze.git"
+    "url": "git+https://github.com/Angielemar/homepage.git"
   },
   "keywords": [
-    "jinze"
+    ""
   ],
-  "author": "jinze",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dearparanoid/jinze/issues"
+    "url": "https://github.com/Angielemar/homepage/issues"
   },
   "dependencies": {
     "babel-polyfill": "^6.23.0",
