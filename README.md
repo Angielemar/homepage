@@ -1,8 +1,6 @@
 ## Status 
 
-
-
-##ToDo
-
+## ToDo
+- [ ] Homepage
 
 ## Note 
