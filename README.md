@@ -1,5 +1,3 @@
-## Install
-yarn install
 
 ## Dev
 yarn dev
